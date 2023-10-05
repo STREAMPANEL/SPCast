@@ -18,22 +18,38 @@ This is the load balancer which takes care of all listeners over all stations.
 
 This will be the Liquidsoap part which sends the news to stations if set up by the user.
 
+https://github.com/STREAMPANEL/SPCast.News
+
+## SPCast.Jingles (Public)
+
+This will be the Liquidsoap part which sends the jingles to stations if set up by the user.
+
+https://github.com/STREAMPANEL/SPCast.Jingles
+
 ## SPCast.PlayerDefault (Public)
 
 This repository will contain the default HTML5 player for all stations.
+
+https://github.com/STREAMPANEL/SPCast.PlayerDefault
 
 ## SPCast.Recorder (Public)
 
 This will be the Liquidsoap part which records the stations if set up by the user.
 
+https://github.com/STREAMPANEL/SPCast.Recorder
+
 ## SPCast.SilenceDetection (Public)
 
 This will detect stations for silence and react to it.
+
+https://github.com/STREAMPANEL/SPCast.SilenceDetection
 
 ## SPCast.Transcoder (Public)
 
 This will convert users radio stations to all needed bitrates.
 Currently, these are: 256 Kbit/s MP3, 192 Kbit/s MP3, 128 Kbit/s MP3, 96 Kbit/s MP3, 64 Kbit/s AAC, 48 Kbit/s AAC, 32 Kbit/s AAC.
+
+https://github.com/STREAMPANEL/SPCast.Transcoder
 
 ## SP--Cast---Skeleton (Private)
 
