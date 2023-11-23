@@ -9,6 +9,12 @@ The Repositories that are open are here to give interested users an insight into
 It's a closed platform. We're using GitHub for some automations.
 Maybe one day we will open the full codebase.
 
+## SPCast.Frontend (Public)
+
+This is the SPCast interface through which users manage their environment accordingly. Due to the use of WHMCS in the company, the frontend has been implemented based on the Smarty Template Engine.
+
+https://github.com/STREAMPANEL/SPCast.Frontend
+
 ## SPCast.Loadbalancer (Private)
 
 This is the load balancer which takes care of all listeners over all stations.
