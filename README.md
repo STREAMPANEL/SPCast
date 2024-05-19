@@ -9,7 +9,7 @@ The Repositories that are open are here to give interested users an insight into
 It's a closed platform. We're using GitHub for some automations.
 Maybe one day we will open the full codebase.
 
-## SPCast.Frontend (Public)
+## SPCast.Frontend (Private)
 
 This is the SPCast interface through which users manage their environment accordingly. Due to the use of WHMCS in the company, the frontend has been implemented based on the Smarty Template Engine.
 
@@ -31,6 +31,12 @@ https://github.com/STREAMPANEL/SPCast.News
 This will be the Liquidsoap part which sends the jingles to stations if set up by the user.
 
 https://github.com/STREAMPANEL/SPCast.Jingles
+
+## SPCast.Syndication (Public)
+
+This will be the Liquidsoap part which sends the jingles to stations if set up by the user.
+
+https://github.com/STREAMPANEL/SPCast.Syndication
 
 ## SPCast.PlayerDefault (Public)
 
@@ -86,10 +92,12 @@ But time is running out, and we want to move away from Centova Cast for a few re
 
 ## Other Dependencies
 
-Without these other dependencies, some things will not be possible the way we've done it.
+Without these other dependencies, SPCast will not be possible the way we've done it.
 
 - [Liquidsoap](https://github.com/savonet/liquidsoap)
 - [Zabbix](https://github.com/zabbix/zabbix)
 - [Grafana](https://github.com/grafana/grafana)
 - [GoAccess](https://github.com/allinurl/goaccess)
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- [AzuraCast](https://github.com/AzuraCast/AzuraCast)
+- [AzuraCast - Traditional Installer](https://github.com/scysys/AzuraCast-Ubuntu)
