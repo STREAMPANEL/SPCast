@@ -4,7 +4,6 @@
 SPCast was developed in a modular way. This page lists all dependencies.
 
 It helps me keep an overview of all parts of the system.
-The official project website is [https://www.spcast.eu](https://www.spcast.eu).
 The repositories that are public are available to give interested users some insight into the platform.
 
 It's a closed platform. We're using GitHub for some automation tasks.
