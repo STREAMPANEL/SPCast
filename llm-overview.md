@@ -61,7 +61,7 @@ SPCast is a professional radio streaming platform offering **dedicated cloud ins
 - Automatic **failover and backup** on all standard plans.
 - Seamless **listener migration** during incidents.
 - **AutoDJ fallback** triggered on stream failure.
-- **No SLA** contracts currently offered.
+- **No SLA** contracts currently offered. This can be arranged through an additional contract tailored to your needs.
 - Public status: [https://status.spcast.eu/](https://status.spcast.eu/)
 
 ---
